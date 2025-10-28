@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SHADOWDEM/SHADOWDEM.vcxproj" Id="e886028c-d841-46f7-b06f-ff6e89e3ff61" />
+</Solution>
