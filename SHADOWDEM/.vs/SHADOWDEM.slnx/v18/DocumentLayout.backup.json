@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\40620\\source\\repos\\Roflans\\SHADOWDEM\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E886028C-D841-46F7-B06F-FF6E89E3FF61}|SHADOWDEM\\SHADOWDEM.vcxproj|C:\\Users\\40620\\source\\repos\\Roflans\\SHADOWDEM\\SHADOWDEM\\zxccxz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E886028C-D841-46F7-B06F-FF6E89E3FF61}|SHADOWDEM\\SHADOWDEM.vcxproj|solutionrelative:SHADOWDEM\\zxccxz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "zxccxz.cpp",
-              "DocumentMoniker": "C:\\Users\\40620\\source\\repos\\Roflans\\SHADOWDEM\\SHADOWDEM\\zxccxz.cpp",
-              "RelativeDocumentMoniker": "SHADOWDEM\\zxccxz.cpp",
-              "ToolTip": "C:\\Users\\40620\\source\\repos\\Roflans\\SHADOWDEM\\SHADOWDEM\\zxccxz.cpp*",
-              "RelativeToolTip": "SHADOWDEM\\zxccxz.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-24T22:14:16.739Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="venki/venki.vcxproj" Id="28c01716-e8f3-4f35-ac99-ea4635714a94" />
+</Solution>
