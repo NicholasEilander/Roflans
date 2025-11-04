@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\40620\\source\\repos\\Roflans\\steins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B3510C-92FB-4FF9-A1A6-385BFDD756EC}|steins\\steins.vcxproj|C:\\Users\\40620\\source\\repos\\Roflans\\steins\\steins\\rintarocpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71B3510C-92FB-4FF9-A1A6-385BFDD756EC}|steins\\steins.vcxproj|solutionrelative:steins\\rintarocpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rintarocpp.cpp",
+              "DocumentMoniker": "C:\\Users\\40620\\source\\repos\\Roflans\\steins\\steins\\rintarocpp.cpp",
+              "RelativeDocumentMoniker": "steins\\rintarocpp.cpp",
+              "ToolTip": "C:\\Users\\40620\\source\\repos\\Roflans\\steins\\steins\\rintarocpp.cpp*",
+              "RelativeToolTip": "steins\\rintarocpp.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T23:49:24.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
