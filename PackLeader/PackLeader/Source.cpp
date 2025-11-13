@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 int calculate(int a, int b) {
-	int resultetogrusha;
 	if (a > b) {
 		return (a - b);
 	}
@@ -11,7 +10,6 @@ int calculate(int a, int b) {
 	else {
 		return (a + b);
 	}
-	return resultetogrusha;
 }
 int main() {
 	int a, b;
