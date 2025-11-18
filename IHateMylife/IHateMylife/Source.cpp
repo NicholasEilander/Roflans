@@ -10,11 +10,11 @@ int sumRange(int start, int end) {
 	
 	int main() {
 		int start, end;
-		cout << "Гидота почалась:";
+		cout << "почалась:";
 		cin >> start;
-		cout << "Гидота закінчилася:";
+		cout << "закінчилася:";
 			cin >> end;
-		cout << "Сума гидоти:" << sumRange(start, end) << endl;
+		cout << "Сума:" << sumRange(start, end) << endl;
 		return 0;
 	}
 
